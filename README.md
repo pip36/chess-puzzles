@@ -1,21 +1,4 @@
-# vuechess
+# Chess Puzzles
 https://chess-puzzles-52133.firebaseapp.com/
-> A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+A simple app to try some challenging chess puzzles. All the puzzles are taken from grandmaster games, stored in a firebase database.
